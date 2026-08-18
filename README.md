@@ -1,7 +1,6 @@
 # llm-output-checker
-Small QA tool for checking structured LLM output reliability.
+Lightweight QA tool for validating structured LLM outputs against required content, prohibited content, and length constraints.
 
-Small prototype for validating whether LLM outputs follow required structure and avoid common failure patterns.
 
 ## What It Checks
 
@@ -50,10 +49,6 @@ rules = {
     ]
 }
 ```
-
-## Status
-
-Prototype / learning project.
 
 ## Future Ideas
 
