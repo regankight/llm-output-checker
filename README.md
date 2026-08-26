@@ -50,10 +50,3 @@ rules = {
 }
 ```
 
-## Future Ideas
-
-- JSON schema validation
-- Batch output testing
-- Structured scoring
-- Multi-output comparison
-- Workflow QA pipelines
